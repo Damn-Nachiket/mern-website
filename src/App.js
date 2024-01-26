@@ -14,7 +14,7 @@ import {
 import Cart from './features/Cart/Cart';
 import CartPage from './Pages/CartPage';
 import CheckoutPage from './Pages/Checkout';
-import ProductDetails from './features/Products-list/Components/ProductDetails';
+import ProductDetails from './features/Product/Components/ProductDetails';
 
 const router = createBrowserRouter([
   {
